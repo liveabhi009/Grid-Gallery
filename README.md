@@ -50,6 +50,8 @@ https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4
 
 ![img](./img.png)
 
+[LIVE](https://liveabhi009.github.io/Grid-Gallery/)
+
 
 ## 📁 Project Structure
 
